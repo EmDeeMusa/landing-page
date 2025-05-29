@@ -1,0 +1,88 @@
+/**/
+.myheader {
+    margin: auto;
+    width: 100%;
+    height: 90px;
+    background-color: rgb(50, 122, 11);
+}
+.mybody {
+    width: 100%;
+    height: 1000px;
+    margin: auto;
+}
+.myfooter {
+    width: 100%;
+    height: 110px;
+    background-color: rgb(50, 122, 11);
+    margin: auto;
+}
+a {
+    background-color: aquamarine;
+    margin: 20px 20px 20px 20px;
+    padding:14px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(25, 125, 60);
+    text-align: center;
+    display: inline-block;
+
+}
+.myimage{
+    margin:0px 0px 0px 30px;
+    width:20%;
+    float: left;
+}
+/*h2{
+    margin:0px 0px 0px 100px;
+}*/
+.myimage2{
+    margin:0px 0px 0px 30px;
+    width:20%;
+    float: right;
+}
+/*.mybody.p{
+    float: right;
+}*/
+.myimage3{
+    margin:0px 0px 0px 30px;
+    width:10%;
+    float: left;
+}
+.myimage4{
+    margin:0px 0px 0px 30px;
+    width:10%;
+    margin-left: 340px;
+
+}
+.myimage5{
+    margin:0px 0px 0px 30px;
+    width:10%;
+    float: right;
+}
+.groupimage{
+    margin:300px 0px 0px 30px ;
+}
+.head2{
+    margin: 0;
+}
+
+.a6{
+    text-decoration: none;
+    color: rgb(186, 219, 198);
+    text-align: center; 
+    padding: 2px 5px;  
+}
+.a5{
+    text-decoration: none;
+    color: rgb(186, 219, 198);
+    text-align: center;
+    padding: 2px 5px;  
+    margin-left: 0%; 
+}
+.a4{
+    text-decoration: none;
+    color: rgb(186, 219, 198);
+    text-align: center; 
+    padding: 2px 5px; 
+    margin-left: -10%; 
+}
